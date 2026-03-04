@@ -17,7 +17,7 @@
     "note": "Classic comedic retort (tsukkomi). (Set 1)",
     "id": 2,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "めっちゃ",
@@ -26,7 +26,7 @@
     "region": "Kansai",
     "note": "Now used nationwide. (Set 1)",
     "id": 3,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -847,7 +847,7 @@
     "note": "Example: 食べへん = 食べない。 (Set 5)",
     "id": 85,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "しばれる",
@@ -857,7 +857,7 @@
     "note": "Used for severe winter cold. (Set 5)",
     "id": 86,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なまら",
@@ -867,7 +867,7 @@
     "note": "Hokkaido intensifier. (Set 5)",
     "id": 87,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "したっけ",
@@ -877,7 +877,7 @@
     "note": "Transition/goodbye phrase. (Set 5)",
     "id": 88,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜ばい",
@@ -927,7 +927,7 @@
     "note": "Strong Nagoya marker. (Set 5)",
     "id": 93,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "ぶち",
@@ -947,7 +947,7 @@
     "note": "Common causal ending. (Set 5)",
     "id": 95,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "いけん",
@@ -957,7 +957,7 @@
     "note": "Prohibitive nuance. (Set 5)",
     "id": 96,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なんくるないさ",
@@ -977,7 +977,7 @@
     "note": "Okinawan gratitude expression. (Set 5)",
     "id": 98,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜やねん",
@@ -987,7 +987,7 @@
     "note": "Explanatory ending in conversation. (Set 5)",
     "id": 99,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "おおきに",
