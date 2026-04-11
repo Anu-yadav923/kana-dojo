@@ -671,7 +671,9 @@
     ],
     "correctIndex": 0,
     "completed": false,
-    "issued": true
+    "issued": false,
+    "completedBy": "VDnoob",
+    "completedPR": 12729
   },
   {
     "id": 49,
