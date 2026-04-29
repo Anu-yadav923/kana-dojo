@@ -204,7 +204,7 @@ const VisibleRowsSection = <TItem,>({
                       )}
                     >
                       <div className='mb-4 w-full max-md:mx-4 max-md:w-[calc(100%-2rem)]'>
-                        <div className='h-8 w-full overflow-hidden rounded-2xl bg-(--background-color)'>
+                        <div className='h-9 w-full overflow-hidden rounded-2xl bg-(--background-color)'>
                           <div
                             className='h-full rounded-2xl transition-all duration-500'
                             style={{
