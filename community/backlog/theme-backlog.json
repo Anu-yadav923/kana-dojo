@@ -350,7 +350,7 @@
     "backgroundColor": "oklch(13.0% 0.058 295.0 / 1)",
     "mainColor": "oklch(78.0% 0.195 45.0 / 1)",
     "secondaryColor": "oklch(70.0% 0.220 310.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -454,8 +454,8 @@
     "secondaryColor": "oklch(60.0% 0.155 25.0 / 1)",
     "issued": false,
     "completed": false,
-    "completedBy": "Gourab-Ghosh123",
-    "completedPR": 16030
+    "completedBy": "Anu-yadav923",
+    "completedPR": 16029
   },
   {
     "id": "sumo-strength",
@@ -1021,7 +1021,9 @@
     "mainColor": "oklch(88.0% 0.170 95.0 / 1)",
     "secondaryColor": "oklch(72.0% 0.135 75.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "dharshan-0",
+    "completedPR": 16039
   },
   {
     "id": "yukata-breeze",
@@ -1148,8 +1150,10 @@
     "backgroundColor": "oklch(98.0% 0.004 90.0 / 1)",
     "mainColor": "oklch(55.0% 0.035 250.0 / 1)",
     "secondaryColor": "oklch(70.0% 0.015 90.0 / 1)",
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": false,
+    "completedBy": "rupesh1285",
+    "completedPR": 16031
   },
   {
     "id": "winter-kimono",
